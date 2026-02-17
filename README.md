@@ -1,5 +1,5 @@
-```markdown
-# 🔐 Python Password Generator
+
+# Python Password Generator 🔐
 
 A clean, extensible password generator built with Python's Abstract Base Classes (ABC). Supports multiple password strategies (Numeric, Letters, Mixed) and makes it easy to add new ones.
 
@@ -17,7 +17,6 @@ A clean, extensible password generator built with Python's Abstract Base Classes
 - Single-file, zero dependencies
 
 ---
-
 ## 📁 Project Structure
 
 ```
